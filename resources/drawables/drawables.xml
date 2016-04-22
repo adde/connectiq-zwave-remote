@@ -1,0 +1,4 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="zwave.png" />
+    <bitmap id="LightBulb" filename="lightbulb_icon.png" />
+</drawables>
